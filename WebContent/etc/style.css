@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+
+*{margin:0 auto;}
+
+body{
+	font-size:9px;
+	text-align:center;	
+}
+
+table{
+	font-size:9px;
+	text-align:center;
+	border:1px solid gray;
+}
+
+select{font-size:9px;}
+
+form{font-size:9px;}
+
+p{font-weight:700;}
+
+* a{
+	text-decoration: none;
+	color: hotpink;
+}
